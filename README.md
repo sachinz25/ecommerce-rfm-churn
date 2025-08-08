@@ -51,8 +51,3 @@ Copy code
 4. Use filters to explore insights
 
 ---
-
-
-- 👨‍🎓 Sachin — Data Analyst | ML & Cybersecurity Enthusiast  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📫 Contact: your-email@example.com
